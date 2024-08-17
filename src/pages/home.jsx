@@ -30,7 +30,7 @@ export function Home() {
           color="white"
           className="mb-6 font-black"
         >
-          Descubre lo Mejor para tu Mascota en PetHub
+          Descubre lo Mejor para tu Mascota en PetHubbbbbbbbbbbbbbbbbb
         </Typography>
         <Typography variant="lead" color="white" className="opacity-80">
           Encuentra todo lo que tu amigo peludo necesita para ser feliz y saludable.
