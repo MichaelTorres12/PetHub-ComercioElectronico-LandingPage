@@ -33,7 +33,7 @@ export function Home() {
           Descubre lo Mejor para tu Mascota en PetHub
         </Typography>
         <Typography variant="lead" color="white" className="opacity-80">
-          Encuentra todo lo que tu amigo peludo necesita para ser feliz y saludable.
+          Pronto encontraras lo que tu amigo peludo necesita para ser feliz y saludable.
         </Typography>
       </div>
     </div>
@@ -64,7 +64,7 @@ export function Home() {
                 className="mb-3 font-bold"
                 color="blue-gray"
               >
-                Comprar con PetHub es una Experiencia Única
+                Comprar con PetHub sera una Experiencia Única
               </Typography>
               <Typography className="mb-8 font-normal text-blue-gray-500">
               No te preocupes por nada, nosotros nos encargamos de todo para que tu mascota tenga lo mejor. Desde accesorios de calidad hasta un servicio de atención al cliente excepcional.
@@ -121,7 +121,7 @@ export function Home() {
       </section>
       <section className="relative bg-white py-24 px-4">
         <div className="container mx-auto">
-          <PageTitle section="Calidad y precio" heading="Encuentra Todo lo que tu Mascota Necesita en un Solo Lugar">
+          <PageTitle section="Calidad y precio" heading="Encontraras Todo lo que tu Mascota Necesita en un Solo Lugar">
           En PetHub, nos comprometemos a hacer que el cuidado de tu mascota sea lo más sencillo y agradable posible. Descubre nuestra variedad de productos, diseñados para ofrecer calidad, comodidad y estilo a tu amigo peludo.
           </PageTitle>
           <div className="mx-auto mt-20 mb-48 grid max-w-5xl grid-cols-1 gap-16 md:grid-cols-2 lg:grid-cols-3">
@@ -151,7 +151,7 @@ export function Home() {
           </PageTitle>
 
           <form className="mx-auto w-full mt-12 lg:w-5/12">
-            <a href=".\index1.html"><Button variant="gradient" size="lg" className="mt-8" fullWidth>Suscribete</Button></a>
+            <a href="\.index1.html"><Button variant="gradient" size="lg" className="mt-8" fullWidth>Suscribete</Button></a>
           </form>
 
           
