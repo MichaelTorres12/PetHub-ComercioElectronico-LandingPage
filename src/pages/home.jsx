@@ -151,18 +151,7 @@ export function Home() {
           </PageTitle>
 
           <form className="mx-auto w-full mt-12 lg:w-5/12">
-            <div className="mb-8 flex gap-8">
-              <Input variant="outlined" size="lg" label="Full Name" />
-              <Input variant="outlined" size="lg" label="Email Address" />
-            </div>
-            <Checkbox  label={ <Typography variant="small" color="gray"className="flex items-center font-normal">
-                  Estoy de acuerdo con
-                  <a href="#" className="font-medium transition-colors hover:text-gray-900"> &nbsp;Los terminos y condiciones </a>
-                </Typography>
-              }
-              containerProps={{ className: "-ml-2.5" }}
-            />
-            <Button variant="gradient" size="lg" className="mt-8" fullWidth> Envíar correo </Button>
+            <a href="www.google.com"><Button variant="gradient" size="lg" className="mt-8" fullWidth>Suscripcion!</Button></a>
           </form>
 
           
