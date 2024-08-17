@@ -146,12 +146,12 @@ export function Home() {
               </Card>
             ))}
           </div>
-          <PageTitle section="Suscribete" heading="Sé el primero en recibir productos">
+          <PageTitle section="" heading="Sé el primero en recibir productos">
             Completa el formulario, suscribete, y sé el primer en saber cuando hayan nuevos productos
           </PageTitle>
 
           <form className="mx-auto w-full mt-12 lg:w-5/12">
-            <a href="www.google.com"><Button variant="gradient" size="lg" className="mt-8" fullWidth>Suscripcion!</Button></a>
+            <a href="\index1.html"><Button variant="gradient" size="lg" className="mt-8" fullWidth>Suscribete</Button></a>
           </form>
 
           
