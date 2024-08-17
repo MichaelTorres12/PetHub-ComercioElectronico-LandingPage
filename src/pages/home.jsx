@@ -30,7 +30,7 @@ export function Home() {
           color="white"
           className="mb-6 font-black"
         >
-          Descubre lo Mejor para tu Mascota en PetHubbbbbbbbbbbbbbbbbb
+          Descubre lo Mejor para tu Mascota en PetHub
         </Typography>
         <Typography variant="lead" color="white" className="opacity-80">
           Encuentra todo lo que tu amigo peludo necesita para ser feliz y saludable.
@@ -149,33 +149,23 @@ export function Home() {
           <PageTitle section="Suscribete" heading="Sé el primero en recibir productos">
             Completa el formulario, suscribete, y sé el primer en saber cuando hayan nuevos productos
           </PageTitle>
+
           <form className="mx-auto w-full mt-12 lg:w-5/12">
             <div className="mb-8 flex gap-8">
               <Input variant="outlined" size="lg" label="Full Name" />
               <Input variant="outlined" size="lg" label="Email Address" />
             </div>
-            <Checkbox
-              label={
-                <Typography
-                  variant="small"
-                  color="gray"
-                  className="flex items-center font-normal"
-                >
+            <Checkbox  label={ <Typography variant="small" color="gray"className="flex items-center font-normal">
                   Estoy de acuerdo con
-                  <a
-                    href="#"
-                    className="font-medium transition-colors hover:text-gray-900"
-                  >
-                    &nbsp;Los terminos y condiciones
-                  </a>
+                  <a href="#" className="font-medium transition-colors hover:text-gray-900"> &nbsp;Los terminos y condiciones </a>
                 </Typography>
               }
               containerProps={{ className: "-ml-2.5" }}
             />
-            <Button variant="gradient" size="lg" className="mt-8" fullWidth>
-              Envíar correo
-            </Button>
+            <Button variant="gradient" size="lg" className="mt-8" fullWidth> Envíar correo </Button>
           </form>
+
+          
         </div>
       </section>
       <div className="bg-white">
