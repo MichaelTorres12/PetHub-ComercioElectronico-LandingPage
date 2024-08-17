@@ -151,7 +151,7 @@ export function Home() {
           </PageTitle>
 
           <form className="mx-auto w-full mt-12 lg:w-5/12">
-            <a href="C:\Users\digifact\Desktop\TGFher\UFG\Landing\PetHub-ComercioElectronico-LandingPage\src\index1.js"><Button variant="gradient" size="lg" className="mt-8" fullWidth>Suscribete</Button></a>
+            <a href=".\index1.html"><Button variant="gradient" size="lg" className="mt-8" fullWidth>Suscribete</Button></a>
           </form>
 
           
